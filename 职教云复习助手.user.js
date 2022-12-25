@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name        职教云复习助手
-// @namespace    http://playdreamer.cn/
+// @namespace    http://www.nakpump.top
 // @include      https://*.zjy2.icve.com.cn/*
 // @version      1.0.1
 // @description  仅供复习，请勿用于非法用途
