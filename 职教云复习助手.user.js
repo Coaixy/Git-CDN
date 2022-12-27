@@ -2,7 +2,8 @@
 // @name        职教云复习助手
 // @namespace    http://www.nakpump.top
 // @include      https://www.zjy2.icve.com.cn/study/homework/do.html*
-// @version      1.0.2
+// @include      https://zjy2icve.com.cn/study/onlineExam/*
+// @version      1.0.3
 // @description  仅供复习，请勿用于非法用途
 // @author       Coaixy
 // @grant        none
