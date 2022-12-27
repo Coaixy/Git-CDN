@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name        职教云复习助手
-// @namespace    http://playdreamer.cn/
-// @include      https://*.zjy2.icve.com.cn/*
-// @version      1.0.0
+// @namespace    http://www.nakpump.top
+// @include      https://www.zjy2.icve.com.cn/study/homework/do.html*
+// @version      1.0.2
 // @description  仅供复习，请勿用于非法用途
 // @author       Coaixy
 // @grant        none
@@ -62,7 +62,6 @@ setTimeout(() => {
             data = data + result + "-"
         }
     });
-    console.log(document)
     document.querySelector("#space > ul > li > a").innerHTML = "开启脚本"
     document.querySelector("#space > ul > li > a").href = "javascript:"
     document.querySelector("#space > ul > li > a").addEventListener("click", () => { copyToClip(data) })
